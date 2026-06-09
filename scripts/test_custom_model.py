@@ -1,10 +1,11 @@
 from app.services.custom_inference import predict
 
 examples = [
-    "I built REST APIs using FastAPI and PostgreSQL.",
-    "The system was deployed on AWS using Docker.",
-    "The team developed the backend in Python using Flask.",
-    "We migrated MongoDB databases to Azure.",
+    "Our backend uses Django with PostgreSQL deployed on AWS.",
+    "The DevOps team manages Kubernetes clusters.",
+    "The data pipeline was written in Go.",
+    "React applications communicate with FastAPI services.",
+    "Jenkins automates Docker deployments."
 ]
 
 for sentence in examples:
