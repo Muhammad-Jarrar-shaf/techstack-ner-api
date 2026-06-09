@@ -1,0 +1,1502 @@
+[
+    {
+        "text": "John containerized applications with Docker and deployed to AWS.",
+        "entities": [
+            [
+                60,
+                63,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                43,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Sara containerized applications with Kubernetes and deployed to AWS.",
+        "entities": [
+            [
+                64,
+                67,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                47,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Maria containerized applications with Docker and deployed to GCP.",
+        "entities": [
+            [
+                61,
+                64,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                44,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed built APIs using Flask and MySQL.",
+        "entities": [
+            [
+                23,
+                28,
+                "FRAMEWORK"
+            ],
+            [
+                33,
+                38,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Maria managed PostgreSQL databases using Java.",
+        "entities": [
+            [
+                41,
+                45,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                14,
+                24,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Sara developed applications in C++ with React.",
+        "entities": [
+            [
+                31,
+                34,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                40,
+                45,
+                "FRAMEWORK"
+            ]
+        ]
+    },
+    {
+        "text": "Sara built APIs using Django and MySQL.",
+        "entities": [
+            [
+                22,
+                28,
+                "FRAMEWORK"
+            ],
+            [
+                33,
+                38,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "John developed applications in Go with FastAPI.",
+        "entities": [
+            [
+                31,
+                33,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                39,
+                46,
+                "FRAMEWORK"
+            ]
+        ]
+    },
+    {
+        "text": "Ali managed MySQL databases using C++.",
+        "entities": [
+            [
+                34,
+                37,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                12,
+                17,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "John deployed services on Azure using Docker.",
+        "entities": [
+            [
+                26,
+                31,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                44,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Sara developed applications in Python with FastAPI.",
+        "entities": [
+            [
+                31,
+                37,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                43,
+                50,
+                "FRAMEWORK"
+            ]
+        ]
+    },
+    {
+        "text": "Maria containerized applications with Kubernetes and deployed to GCP.",
+        "entities": [
+            [
+                65,
+                68,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                48,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Maria built APIs using Flask and PostgreSQL.",
+        "entities": [
+            [
+                23,
+                28,
+                "FRAMEWORK"
+            ],
+            [
+                33,
+                43,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Maria containerized applications with Kubernetes and deployed to Azure.",
+        "entities": [
+            [
+                65,
+                70,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                48,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Sara deployed services on AWS using Kubernetes.",
+        "entities": [
+            [
+                26,
+                29,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                36,
+                46,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Sara deployed services on Azure using Kubernetes.",
+        "entities": [
+            [
+                26,
+                31,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                48,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "John containerized applications with Jenkins and deployed to Azure.",
+        "entities": [
+            [
+                61,
+                66,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                44,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "John managed PostgreSQL databases using Java.",
+        "entities": [
+            [
+                40,
+                44,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                13,
+                23,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "John containerized applications with Jenkins and deployed to Azure.",
+        "entities": [
+            [
+                61,
+                66,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                44,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Maria deployed services on GCP using Docker.",
+        "entities": [
+            [
+                27,
+                30,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                43,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Sara developed applications in JavaScript with FastAPI.",
+        "entities": [
+            [
+                31,
+                41,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                47,
+                54,
+                "FRAMEWORK"
+            ]
+        ]
+    },
+    {
+        "text": "Ali containerized applications with Jenkins and deployed to AWS.",
+        "entities": [
+            [
+                60,
+                63,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                36,
+                43,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed containerized applications with Kubernetes and deployed to AWS.",
+        "entities": [
+            [
+                65,
+                68,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                48,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed built APIs using Django and MySQL.",
+        "entities": [
+            [
+                23,
+                29,
+                "FRAMEWORK"
+            ],
+            [
+                34,
+                39,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Sara managed MongoDB databases using Go.",
+        "entities": [
+            [
+                37,
+                39,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                13,
+                20,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Maria managed PostgreSQL databases using Java.",
+        "entities": [
+            [
+                41,
+                45,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                14,
+                24,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ali developed applications in Go with FastAPI.",
+        "entities": [
+            [
+                30,
+                32,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                38,
+                45,
+                "FRAMEWORK"
+            ]
+        ]
+    },
+    {
+        "text": "Sara developed applications in C++ with Flask.",
+        "entities": [
+            [
+                31,
+                34,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                40,
+                45,
+                "FRAMEWORK"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed containerized applications with Docker and deployed to AWS.",
+        "entities": [
+            [
+                61,
+                64,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                44,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Maria built APIs using Flask and PostgreSQL.",
+        "entities": [
+            [
+                23,
+                28,
+                "FRAMEWORK"
+            ],
+            [
+                33,
+                43,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Maria built APIs using React and MySQL.",
+        "entities": [
+            [
+                23,
+                28,
+                "FRAMEWORK"
+            ],
+            [
+                33,
+                38,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Maria managed MySQL databases using JavaScript.",
+        "entities": [
+            [
+                36,
+                46,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                14,
+                19,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed deployed services on AWS using Kubernetes.",
+        "entities": [
+            [
+                27,
+                30,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                47,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed built APIs using Django and MongoDB.",
+        "entities": [
+            [
+                23,
+                29,
+                "FRAMEWORK"
+            ],
+            [
+                34,
+                41,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Sara deployed services on Azure using Docker.",
+        "entities": [
+            [
+                26,
+                31,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                44,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "John built APIs using Flask and MySQL.",
+        "entities": [
+            [
+                22,
+                27,
+                "FRAMEWORK"
+            ],
+            [
+                32,
+                37,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ali containerized applications with Jenkins and deployed to GCP.",
+        "entities": [
+            [
+                60,
+                63,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                36,
+                43,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Maria built APIs using Flask and MySQL.",
+        "entities": [
+            [
+                23,
+                28,
+                "FRAMEWORK"
+            ],
+            [
+                33,
+                38,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed containerized applications with Kubernetes and deployed to Azure.",
+        "entities": [
+            [
+                65,
+                70,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                48,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed managed PostgreSQL databases using Go.",
+        "entities": [
+            [
+                41,
+                43,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                14,
+                24,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ali containerized applications with Kubernetes and deployed to GCP.",
+        "entities": [
+            [
+                63,
+                66,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                36,
+                46,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Sara developed applications in Go with Flask.",
+        "entities": [
+            [
+                31,
+                33,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                39,
+                44,
+                "FRAMEWORK"
+            ]
+        ]
+    },
+    {
+        "text": "John containerized applications with Jenkins and deployed to Azure.",
+        "entities": [
+            [
+                61,
+                66,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                44,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Maria deployed services on Azure using Jenkins.",
+        "entities": [
+            [
+                27,
+                32,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                39,
+                46,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "John managed MongoDB databases using Go.",
+        "entities": [
+            [
+                37,
+                39,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                13,
+                20,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ali deployed services on Azure using Kubernetes.",
+        "entities": [
+            [
+                25,
+                30,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                47,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Sara managed MySQL databases using C++.",
+        "entities": [
+            [
+                35,
+                38,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                13,
+                18,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ali managed MySQL databases using C++.",
+        "entities": [
+            [
+                34,
+                37,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                12,
+                17,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed managed PostgreSQL databases using C++.",
+        "entities": [
+            [
+                41,
+                44,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                14,
+                24,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Maria containerized applications with Kubernetes and deployed to AWS.",
+        "entities": [
+            [
+                65,
+                68,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                48,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "John built APIs using FastAPI and PostgreSQL.",
+        "entities": [
+            [
+                22,
+                29,
+                "FRAMEWORK"
+            ],
+            [
+                34,
+                44,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ali deployed services on Azure using Jenkins.",
+        "entities": [
+            [
+                25,
+                30,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                44,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Sara containerized applications with Docker and deployed to AWS.",
+        "entities": [
+            [
+                60,
+                63,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                43,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Sara managed PostgreSQL databases using JavaScript.",
+        "entities": [
+            [
+                40,
+                50,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                13,
+                23,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Sara developed applications in JavaScript with Flask.",
+        "entities": [
+            [
+                31,
+                41,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                47,
+                52,
+                "FRAMEWORK"
+            ]
+        ]
+    },
+    {
+        "text": "Sara managed PostgreSQL databases using Java.",
+        "entities": [
+            [
+                40,
+                44,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                13,
+                23,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed developed applications in Go with FastAPI.",
+        "entities": [
+            [
+                32,
+                34,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                40,
+                47,
+                "FRAMEWORK"
+            ]
+        ]
+    },
+    {
+        "text": "Ali built APIs using FastAPI and MongoDB.",
+        "entities": [
+            [
+                21,
+                28,
+                "FRAMEWORK"
+            ],
+            [
+                33,
+                40,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed built APIs using FastAPI and MySQL.",
+        "entities": [
+            [
+                23,
+                30,
+                "FRAMEWORK"
+            ],
+            [
+                35,
+                40,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Maria deployed services on GCP using Jenkins.",
+        "entities": [
+            [
+                27,
+                30,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                44,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Sara deployed services on Azure using Jenkins.",
+        "entities": [
+            [
+                26,
+                31,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                45,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Sara managed MongoDB databases using JavaScript.",
+        "entities": [
+            [
+                37,
+                47,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                13,
+                20,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed containerized applications with Jenkins and deployed to Azure.",
+        "entities": [
+            [
+                62,
+                67,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                45,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Sara containerized applications with Docker and deployed to Azure.",
+        "entities": [
+            [
+                60,
+                65,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                43,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed deployed services on AWS using Docker.",
+        "entities": [
+            [
+                27,
+                30,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                43,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed built APIs using FastAPI and PostgreSQL.",
+        "entities": [
+            [
+                23,
+                30,
+                "FRAMEWORK"
+            ],
+            [
+                35,
+                45,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ali deployed services on AWS using Docker.",
+        "entities": [
+            [
+                25,
+                28,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                35,
+                41,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Maria containerized applications with Docker and deployed to GCP.",
+        "entities": [
+            [
+                61,
+                64,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                44,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "John managed MySQL databases using Java.",
+        "entities": [
+            [
+                35,
+                39,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                13,
+                18,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed deployed services on GCP using Kubernetes.",
+        "entities": [
+            [
+                27,
+                30,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                47,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed built APIs using React and MySQL.",
+        "entities": [
+            [
+                23,
+                28,
+                "FRAMEWORK"
+            ],
+            [
+                33,
+                38,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ali built APIs using FastAPI and MongoDB.",
+        "entities": [
+            [
+                21,
+                28,
+                "FRAMEWORK"
+            ],
+            [
+                33,
+                40,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Sara deployed services on AWS using Kubernetes.",
+        "entities": [
+            [
+                26,
+                29,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                36,
+                46,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed managed PostgreSQL databases using Java.",
+        "entities": [
+            [
+                41,
+                45,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                14,
+                24,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Sara developed applications in Java with Django.",
+        "entities": [
+            [
+                31,
+                35,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                41,
+                47,
+                "FRAMEWORK"
+            ]
+        ]
+    },
+    {
+        "text": "Ali containerized applications with Kubernetes and deployed to Azure.",
+        "entities": [
+            [
+                63,
+                68,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                36,
+                46,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Ali managed PostgreSQL databases using JavaScript.",
+        "entities": [
+            [
+                39,
+                49,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                12,
+                22,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Maria deployed services on GCP using Docker.",
+        "entities": [
+            [
+                27,
+                30,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                43,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "John built APIs using React and MySQL.",
+        "entities": [
+            [
+                22,
+                27,
+                "FRAMEWORK"
+            ],
+            [
+                32,
+                37,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed built APIs using React and MongoDB.",
+        "entities": [
+            [
+                23,
+                28,
+                "FRAMEWORK"
+            ],
+            [
+                33,
+                40,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Maria developed applications in JavaScript with FastAPI.",
+        "entities": [
+            [
+                32,
+                42,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                48,
+                55,
+                "FRAMEWORK"
+            ]
+        ]
+    },
+    {
+        "text": "Maria deployed services on Azure using Docker.",
+        "entities": [
+            [
+                27,
+                32,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                39,
+                45,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "John managed PostgreSQL databases using Java.",
+        "entities": [
+            [
+                40,
+                44,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                13,
+                23,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Maria managed MySQL databases using Go.",
+        "entities": [
+            [
+                36,
+                38,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                14,
+                19,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Maria containerized applications with Jenkins and deployed to Azure.",
+        "entities": [
+            [
+                62,
+                67,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                45,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Ali managed PostgreSQL databases using Go.",
+        "entities": [
+            [
+                39,
+                41,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                12,
+                22,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "John containerized applications with Kubernetes and deployed to AWS.",
+        "entities": [
+            [
+                64,
+                67,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                47,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "John managed MySQL databases using C++.",
+        "entities": [
+            [
+                35,
+                38,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                13,
+                18,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed managed MySQL databases using Go.",
+        "entities": [
+            [
+                36,
+                38,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                14,
+                19,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Ahmed containerized applications with Docker and deployed to GCP.",
+        "entities": [
+            [
+                61,
+                64,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                38,
+                44,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "John containerized applications with Docker and deployed to Azure.",
+        "entities": [
+            [
+                60,
+                65,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                43,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Maria deployed services on Azure using Jenkins.",
+        "entities": [
+            [
+                27,
+                32,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                39,
+                46,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Ali deployed services on Azure using Kubernetes.",
+        "entities": [
+            [
+                25,
+                30,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                47,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "John containerized applications with Kubernetes and deployed to GCP.",
+        "entities": [
+            [
+                64,
+                67,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                37,
+                47,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Sara built APIs using React and MySQL.",
+        "entities": [
+            [
+                22,
+                27,
+                "FRAMEWORK"
+            ],
+            [
+                32,
+                37,
+                "DATABASE"
+            ]
+        ]
+    },
+    {
+        "text": "Maria developed applications in JavaScript with FastAPI.",
+        "entities": [
+            [
+                32,
+                42,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                48,
+                55,
+                "FRAMEWORK"
+            ]
+        ]
+    },
+    {
+        "text": "Sara deployed services on GCP using Jenkins.",
+        "entities": [
+            [
+                26,
+                29,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                36,
+                43,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "Ali deployed services on AWS using Jenkins.",
+        "entities": [
+            [
+                25,
+                28,
+                "CLOUD_PLATFORM"
+            ],
+            [
+                35,
+                42,
+                "DEVOPS_TOOL"
+            ]
+        ]
+    },
+    {
+        "text": "John developed applications in JavaScript with Flask.",
+        "entities": [
+            [
+                31,
+                41,
+                "PROGRAMMING_LANGUAGE"
+            ],
+            [
+                47,
+                52,
+                "FRAMEWORK"
+            ]
+        ]
+    },
+    {
+        "text": "John built APIs using FastAPI and MySQL.",
+        "entities": [
+            [
+                22,
+                29,
+                "FRAMEWORK"
+            ],
+            [
+                34,
+                39,
+                "DATABASE"
+            ]
+        ]
+    }
+]

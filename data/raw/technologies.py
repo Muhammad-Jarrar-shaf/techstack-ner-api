@@ -30,3 +30,11 @@ DEVOPS = [
     "Kubernetes",
     "Jenkins",
 ]
+
+NAMES = [
+    "Ali",
+    "Sara",
+    "Ahmed",
+    "John",
+    "Maria",
+]
