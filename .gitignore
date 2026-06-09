@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models
+models/
+
+# Generated HTML
+*.html
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
